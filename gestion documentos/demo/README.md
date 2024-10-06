@@ -1,4 +1,4 @@
-# demo
+# Administrador de Biblioteca
 Sistema en Java para la administración de una biblioteca, empleados, libros y estudiantes. Además adición de sistema de cálculo de pago según prestamos a empleados y cálculo de cobro a estudiantes.
 
 # Autores
